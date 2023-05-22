@@ -1,4 +1,4 @@
-Live site URL -
+Live site URL - https://pricing-card-component-tailwind-ak.netlify.app/
 
 ![Screenshot](Pricing-card-tailwind.png)
 
